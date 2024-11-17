@@ -1,6 +1,7 @@
 # SuperStore Sales Dashboard
 
-![Uploading predictive sales forecasting dashboard with power bi screenshot.png…]()
+
+![predictive sales forecasting dashboard with power bi screenshot](https://github.com/user-attachments/assets/8776db07-1de3-412f-813e-40489d5b6dfa)
 
 ## Overview
 This repository contains a data visualization project analyzing the SuperStore Sales Dataset. The project focuses on sales, profit, and customer metrics, with interactive insights provided through a dashboard.
