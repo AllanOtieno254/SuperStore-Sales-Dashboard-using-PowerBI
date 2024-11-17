@@ -1,0 +1,15 @@
+SuperStore-Sales-Dashboard/
+├── data/
+│   ├── SuperStore_Sales_Dataset.csv  # Raw dataset
+│   ├── cleaned_data.csv              # Preprocessed/cleaned dataset (optional)
+├── dashboard/
+│   ├── Dashboard.pbix                # Power BI file or equivalent dashboard file
+│   ├── Dashboard_Screenshots/        # Folder containing images of the dashboard
+│       ├── Overview.png
+│       ├── Sales_Analysis.png
+│       ├── Profit_Analysis.png
+├── src/
+│   ├── dax_measures.md               # DAX measures used in the dashboard
+│   ├── scripts.ipynb                 # Optional, for any preprocessing scripts
+├── README.md                         # Description and documentation
+├── LICENSE                           # License for the repository (e.g., MIT)
